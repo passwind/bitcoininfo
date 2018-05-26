@@ -1,6 +1,6 @@
 # 比特币世界的圣经
 
-[中本聪的白皮书(英文)](https://bitcoin.org/bitcoin.pdf) ([中文版 ***（翻译略有问题，注意识别）***](./docs/bitcoin_cn.pdf))
+[中本聪的白皮书(英文)](https://bitcoin.org/bitcoin.pdf) ([中文版 （翻译略有问题，注意识别）](./docs/bitcoin_cn.pdf))
 
 ## 论文中提到的参考资料
 
