@@ -1,6 +1,6 @@
 # 比特币世界的圣经
 
-[中本聪的论文(英文)](https://bitcoin.org/bitcoin.pdf) ([中文版](./docs/bitcoin_cn.pdf))
+[中本聪的白皮书(英文)](https://bitcoin.org/bitcoin.pdf) ([中文版 ***（翻译略有问题，注意识别）***](./docs/bitcoin_cn.pdf))
 
 ## 论文中提到的参考资料
 
@@ -13,6 +13,10 @@
 1. [http://www.hashcash.org/papers/hashcash.pdf, 2002.](./docs/hashcash.pdf)
 1. [R.C. Merkle, "Protocols for public key cryptosystems," In Proc. 1980 Symposium on Security and Privacy, IEEE Computer Society, pages 122-133, April 1980.](./docs/Protocols_for_Public_Key_Cryptosystems.pdf)
 1. [W. Feller, "An introduction to probability theory and its applications," 1957](./docs/WilliamFeller-AnIntroductionToProbabilityTheoryAndItsApplications.VolII.pdf)
+
+## 大牛们
+
+[中本聪](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%9C%AC%E8%81%AA)
 
 # 比特币
 
