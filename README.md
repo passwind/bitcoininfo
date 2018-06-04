@@ -105,6 +105,10 @@ consensus.nMinerConfirmationWindow = 2016; // nPowTargetTimespan / nPowTargetSpa
 * [Tell me why Satoshi Nakamoto didn't spend a Satoshi from his 1 Mio BTC](https://bitcointalk.org/index.php?topic=1382380.0)
 * [9-most-famous-bitcoin-addresses](http://www.theopenledger.com/9-most-famous-bitcoin-addresses/)
 
+### 如何追踪比特币交易
+
+[Tracking Bitcoin Transactions on the Blockchain](https://www.sans.org/summit-archives/file/summit-archive-1498165491.pdf)
+
 # 比特币
 
 * [https://bitcoincore.org/](https://bitcoincore.org/)
